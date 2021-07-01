@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RegistrationUi</string>
+    <string name="add_new_employee_here">Add New Employee Here</string>
+
+    <string name="title">Title</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="work_email">Work Email</string>
+    <string name="sumit">Sumit</string>
+    <string name="rai">Rai</string>
+    <string name="sumitrai_masai_com">sumitRai@masai.com</string>
+    <string name="select_option">Select Option</string>
+</resources>
